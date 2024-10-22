@@ -1,6 +1,10 @@
 {
     "mods": [
         {
+            "name": "CF",
+            "id": "@CF"
+        },
+        {
             "name": "Ambient Animals Pack",
             "id": "@Ambient Animals Pack"
         },
