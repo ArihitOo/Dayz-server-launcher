@@ -1,20 +1,5 @@
 {
     "mods": [
-        {
-            "name": "CF",
-            "id": "@CF"
-        },
-        {
-            "name": "Ambient Animals Pack",
-            "id": "@Ambient Animals Pack"
-        },
-        {
-            "name": "AJs Creatures",
-            "id": "@AJs Creatures"
-        },
-        {
-            "name": "AmmoStackBullet",
-            "id": "@AmmoStackBullet"
-        }
+        {}
     ]
 }
