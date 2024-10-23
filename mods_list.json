@@ -1,8 +1,9 @@
 {
     "mods": [
         {
-            "name": "@CF",
-            "id": "1559212036"
+            "name": "CF",
+            "id": "@CF",
+            "link": "https://steamcommunity.com/workshop/filedetails/?id=1559212036"
         }
     ]
 }
